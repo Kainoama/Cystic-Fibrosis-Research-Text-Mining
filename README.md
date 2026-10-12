@@ -1,4 +1,4 @@
-# Text Mining PubMed: Mapping Treatment Evolution and Adverse Events in Cystic Fibrosis
+# Mapping Treatment Evolution and Adverse Events in Cystic Fibrosis: A Corpus-Based Text-Mining and Network Analysis of PubMed Literature
 
 ## Overview
 
